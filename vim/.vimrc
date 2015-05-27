@@ -1,0 +1,3 @@
+" Case-insensitive searching.
+set ignorecase
+
